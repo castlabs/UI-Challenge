@@ -55,7 +55,7 @@ For Example:
 
 ## Rules
 
-Please implement the UI as a Single Page App using React, you are free to use any other packages you wish. The solution
+Please implement the UI as a Single Page App using any one of React, Vue or Angular frameworks, you are free to use any other packages you wish. The solution
 should be submitted as a Git repository and should be runnable using a make target:
 
 ```bash
